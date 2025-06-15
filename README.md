@@ -8,6 +8,6 @@ I’ve worked across different stages of the data lifecycle:
 - Training and tuning ML/DL models
 - Deploying and maintaining data-driven applications
 
-📊 I'm passionate about solving real-world problems through data, and I'm constantly exploring new ways to **combine AI with practical business needs**.
+Passionate about solving real-world problems through data, and I'm constantly exploring new ways to **combine AI with practical business needs**.
 
-📍 Currently exploring **LLMs, LangGraph, agentic AI, and generative applications**.
+Currently exploring **LLMs, LangGraph, agentic AI, and generative applications**.
