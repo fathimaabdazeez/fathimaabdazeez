@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Fathima Abdul Azeez
 
-<!--
-**fathimaabdazeez/fathimaabdazeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with hands-on experience delivering **end-to-end data projects**. By end-to-end, I mean being involved right from understanding client requirements to implementing the complete pipeline — including **data ingestion, data engineering**, and **machine learning solutions**.
 
-Here are some ideas to get you started:
+I’ve worked across different stages of the data lifecycle:
+- Collecting and cleaning messy real-world data
+- Building robust ETL pipelines
+- Training and tuning ML/DL models
+- Deploying and maintaining data-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I'm passionate about solving real-world problems through data, and I'm constantly exploring new ways to **combine AI with practical business needs**.
+
+📍 Currently exploring **LLMs, LangGraph, agentic AI, and generative applications**.
